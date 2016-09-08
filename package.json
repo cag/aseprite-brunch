@@ -1,0 +1,33 @@
+{
+  "name": "aseprite-brunch",
+  "version": "1.0.0",
+  "description": "Aseprite integration for Brunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cag/aseprite-brunch.git"
+  },
+  "keywords": [
+    "aseprite",
+    "brunch",
+    "game",
+    "pixel",
+    "art",
+    "plugin"
+  ],
+  "author": "Alan Lu <gotoalanlu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cag/aseprite-brunch/issues"
+  },
+  "homepage": "https://github.com/cag/aseprite-brunch#readme",
+  "peerDependencies": {
+    "brunch": "~2.8"
+  },
+  "dependencies": {
+    "tmp": "0.0.28"
+  }
+}
