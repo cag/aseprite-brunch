@@ -1,5 +1,7 @@
 # [Aseprite](http://www.aseprite.org/) for [Brunch](http://brunch.io/)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cag/aseprite-brunch.svg)](https://greenkeeper.io/)
+
 Aseprite integration for Brunch.
 
 # Get it
